@@ -1,0 +1,579 @@
+游戏开始
+先手开始布局
+发送指令：INFORMATION 1.0
+
+收到指令：NAME The sword refers to the sky
+
+
+引擎信息: NAME The sword refers to the sky
+
+发送指令：START 0 1800 31
+
+收到指令：ARRAY chbihggkdeedcfkgiijafhjlj
+
+
+先手布局成功
+后手开始布局
+发送指令：INFORMATION 1.0
+
+收到指令：NAME bluesky-将军
+
+
+引擎信息: NAME bluesky-将军
+
+发送指令：START 1 1800 31
+
+收到指令：ARRAY cgfehkiabkiedfghjcdijljhg
+
+
+后手布局成功
+开始行棋
+发送指令：GO 0000 0 00
+
+收到指令：BESTMOVE G2F2
+
+
+发送指令：RESULT 1 00
+
+1-先手: G2F2 结果:1 
+发送指令：GO F2G2 1 00
+
+收到指令：BESTMOVE G0H1
+
+
+发送指令：RESULT 3 00
+
+2-后手: F4E3 结果:3
+发送指令：GO F4E3 3 00
+
+收到指令：BESTMOVE F2E1
+
+
+发送指令：RESULT 3 00
+
+3-先手: F2E1 结果:3 
+发送指令：GO G2H3 3 00
+
+收到指令：BESTMOVE H0F0
+
+
+发送指令：RESULT 2 00
+
+4-后手: E4G4 结果:2
+发送指令：GO E4G4 2 00
+
+收到指令：BESTMOVE E1F0
+
+
+发送指令：RESULT 1 00
+
+5-先手: E1F0 结果:1 
+发送指令：GO H3G4 1 00
+
+收到指令：BESTMOVE H4G4
+
+
+发送指令：RESULT 1 00
+
+6-后手: E0F0 结果:1
+发送指令：GO E0F0 1 00
+
+收到指令：BESTMOVE H4H3
+
+
+发送指令：RESULT 3 00
+
+7-先手: H4H3 结果:3 
+发送指令：GO E0E1 3 00
+
+收到指令：BESTMOVE G4F4
+
+
+发送指令：RESULT 1 00
+
+8-后手: F0G0 结果:1
+发送指令：GO F0G0 1 00
+
+收到指令：BESTMOVE I1H1
+
+
+发送指令：RESULT 3 00
+
+9-先手: I1H1 结果:3 
+发送指令：GO D3E3 3 00
+
+收到指令：BESTMOVE F4E4
+
+
+发送指令：RESULT 1 00
+
+10-后手: G0H0 结果:1
+发送指令：GO G0H0 1 00
+
+收到指令：BESTMOVE J2J3
+
+
+发送指令：RESULT 3 00
+
+11-先手: J2J3 结果:3 
+发送指令：GO C2C1 3 00
+
+收到指令：BESTMOVE E4D4
+
+
+发送指令：RESULT 1 00
+
+12-后手: H0I0 结果:1
+发送指令：GO H0I0 1 00
+
+收到指令：BESTMOVE J0J1
+
+
+发送指令：RESULT 3 00
+
+13-先手: J0J1 结果:3 
+发送指令：GO C4C3 3 00
+
+收到指令：BESTMOVE H2I2
+
+
+发送指令：RESULT 3 00
+
+14-后手: E2D2 结果:3
+发送指令：GO E2D2 3 00
+
+收到指令：BESTMOVE I3I2
+
+
+发送指令：RESULT 3 00
+
+15-先手: I3I2 结果:3 
+发送指令：GO D1D2 3 00
+
+收到指令：BESTMOVE I0D0
+
+
+发送指令：RESULT 1 00
+
+16-后手: D4I4 结果:1
+发送指令：GO D4I4 1 00
+
+收到指令：BESTMOVE J4I4
+
+
+发送指令：RESULT 2 00
+
+17-先手: J4I4 结果:2 
+发送指令：GO C0D0 2 00
+
+收到指令：BESTMOVE D4C4
+
+
+发送指令：RESULT 3 00
+
+18-后手: I0J0 结果:3
+发送指令：GO I0J0 3 00
+
+收到指令：BESTMOVE K4C4
+
+
+发送指令：RESULT 1 00
+
+19-先手: K4C4 结果:1 
+发送指令：GO B0J0 1 00
+
+收到指令：BESTMOVE I1J1
+
+
+发送指令：RESULT 3 00
+
+20-后手: D3C3 结果:3
+发送指令：GO D3C3 3 00
+
+收到指令：BESTMOVE C4K4
+
+
+发送指令：RESULT 3 00
+
+21-先手: C4K4 结果:3 
+发送指令：GO J0B0 3 00
+
+收到指令：BESTMOVE I4H3
+
+
+发送指令：RESULT 3 00
+
+22-后手: D0E1 结果:3
+发送指令：GO D0E1 3 00
+
+收到指令：BESTMOVE G1G2
+
+
+发送指令：RESULT 3 00
+
+23-先手: G1G2 结果:3 
+发送指令：GO F3F2 3 00
+
+收到指令：BESTMOVE J1I0
+
+
+发送指令：RESULT 3 00
+
+24-后手: C3D4 结果:3
+发送指令：GO C3D4 3 00
+
+收到指令：BESTMOVE G3D4
+
+
+发送指令：RESULT 2 00
+
+25-先手: G3D4 结果:2 
+发送指令：GO F1I0 2 00
+
+收到指令：BESTMOVE K0J1
+
+
+发送指令：RESULT 3 00
+
+26-后手: B4C3 结果:3
+发送指令：GO B4C3 3 00
+
+收到指令：BESTMOVE G2G4
+
+
+发送指令：RESULT 3 00
+
+27-先手: G2G4 结果:3 
+发送指令：GO F2F0 3 00
+
+收到指令：BESTMOVE G1G0
+
+
+发送指令：RESULT 3 00
+
+28-后手: F3F4 结果:3
+发送指令：GO F3F4 3 00
+
+收到指令：BESTMOVE G4G1
+
+
+发送指令：RESULT 3 00
+
+29-先手: G4G1 结果:3 
+发送指令：GO F0F3 3 00
+
+收到指令：BESTMOVE G0G2
+
+
+发送指令：RESULT 3 00
+
+30-后手: F4F2 结果:3
+发送指令：GO F4F2 3 00
+
+收到指令：BESTMOVE G1G4
+
+
+发送指令：RESULT 3 00
+
+31-先手: G1G4 结果:3 
+发送指令：GO F3F0 3 00
+
+收到指令：BESTMOVE C4D4
+
+
+发送指令：RESULT 3 00
+
+32-后手: J0I0 结果:3
+发送指令：GO J0I0 3 00
+
+收到指令：BESTMOVE G4D4
+
+
+发送指令：RESULT 3 00
+
+33-先手: G4D4 结果:3 
+发送指令：GO F0I0 3 00
+
+收到指令：BESTMOVE J1I0
+
+
+发送指令：RESULT 2 00
+
+34-后手: C3D4 结果:2
+发送指令：GO C3D4 2 00
+
+收到指令：BESTMOVE I2J2
+
+
+发送指令：RESULT 3 00
+
+35-先手: I2J2 结果:3 
+发送指令：GO D2C2 3 00
+
+收到指令：BESTMOVE J2J1
+
+
+发送指令：RESULT 3 00
+
+36-后手: C2C3 结果:3
+发送指令：GO C2C3 3 00
+
+收到指令：BESTMOVE H3I2
+
+
+发送指令：RESULT 3 00
+
+37-先手: H3I2 结果:3 
+发送指令：GO E1D2 3 00
+
+收到指令：BESTMOVE J4J3
+
+
+发送指令：RESULT 3 00
+
+38-后手: C0C1 结果:3
+发送指令：GO C0C1 3 00
+
+收到指令：BESTMOVE H2H3
+
+
+发送指令：RESULT 3 00
+
+39-先手: H2H3 结果:3 
+发送指令：GO E2E1 3 00
+
+收到指令：BESTMOVE I3I4
+
+
+发送指令：RESULT 3 00
+
+40-后手: D1D0 结果:3
+发送指令：GO D1D0 3 00
+
+收到指令：BESTMOVE H3H2
+
+
+发送指令：RESULT 3 00
+
+41-先手: H3H2 结果:3 
+发送指令：GO E1E2 3 00
+
+收到指令：BESTMOVE D4C4
+
+
+发送指令：RESULT 3 00
+
+42-后手: I0J0 结果:3
+发送指令：GO I0J0 3 00
+
+收到指令：BESTMOVE H2H3
+
+
+发送指令：RESULT 3 00
+
+43-先手: H2H3 结果:3 
+发送指令：GO E2E1 3 00
+
+收到指令：BESTMOVE C4D4
+
+
+发送指令：RESULT 3 00
+
+44-后手: J0I0 结果:3
+发送指令：GO J0I0 3 00
+
+收到指令：BESTMOVE H3H2
+
+
+发送指令：RESULT 3 00
+
+45-先手: H3H2 结果:3 
+发送指令：GO E1E2 3 00
+
+收到指令：BESTMOVE D4C4
+
+
+发送指令：RESULT 3 00
+
+46-后手: I0J0 结果:3
+发送指令：GO I0J0 3 00
+
+收到指令：BESTMOVE H2H3
+
+
+发送指令：RESULT 3 00
+
+47-先手: H2H3 结果:3 
+发送指令：GO E2E1 3 00
+
+收到指令：BESTMOVE C4D4
+
+
+发送指令：RESULT 3 00
+
+48-后手: J0I0 结果:3
+发送指令：GO J0I0 3 00
+
+收到指令：BESTMOVE H3G2
+
+
+发送指令：RESULT 3 00
+
+49-先手: H3G2 结果:3 
+发送指令：GO E1F2 3 00
+
+收到指令：BESTMOVE G2F2
+
+
+发送指令：RESULT 2 00
+
+50-后手: F2G2 结果:2
+发送指令：GO F2G2 2 00
+
+收到指令：BESTMOVE J3I4
+
+
+发送指令：RESULT 3 00
+
+51-先手: J3I4 结果:3 
+发送指令：GO C1D0 3 00
+
+收到指令：BESTMOVE I4E0
+
+
+发送指令：RESULT 3 00
+
+52-后手: D0H4 结果:3
+发送指令：GO D0H4 3 00
+
+收到指令：BESTMOVE I4H3
+
+
+发送指令：RESULT 3 00
+
+53-先手: I4H3 结果:3 
+发送指令：GO D0E1 3 00
+
+收到指令：BESTMOVE D4F4
+
+
+发送指令：RESULT 3 00
+
+54-后手: I0G0 结果:3
+发送指令：GO I0G0 3 00
+
+收到指令：BESTMOVE J2J3
+
+
+发送指令：RESULT 3 00
+
+55-先手: J2J3 结果:3 
+发送指令：GO C2C1 3 00
+
+收到指令：BESTMOVE F4F0
+
+
+发送指令：RESULT 3 00
+
+56-后手: G0G4 结果:3
+发送指令：GO G0G4 3 00
+
+收到指令：BESTMOVE K4H4
+
+
+发送指令：RESULT 1 00
+
+57-先手: K4H4 结果:1 
+发送指令：GO B0E0 1 00
+
+收到指令：BESTMOVE F0E0
+
+
+发送指令：RESULT 2 A1
+
+58-后手: G4H4 结果:2
+发送指令：GO G4H4 2 A3
+
+收到指令：BESTMOVE K2J2
+
+
+发送指令：RESULT 3 A3
+
+59-先手: K2J2 结果:3 
+发送指令：GO B2C2 3 A1
+
+收到指令：BESTMOVE G3G0
+
+
+发送指令：RESULT 3 A1
+
+60-后手: F1F4 结果:3
+发送指令：GO F1F4 3 A3
+
+收到指令：BESTMOVE J2K2
+
+
+发送指令：RESULT 3 A3
+
+61-先手: J2K2 结果:3 
+发送指令：GO C2B2 3 A1
+
+收到指令：BESTMOVE G0B0
+
+
+发送指令：RESULT 3 A1
+
+62-后手: F4K4 结果:3
+发送指令：GO F4K4 3 A3
+
+收到指令：BESTMOVE K2J2
+
+
+发送指令：RESULT 3 A3
+
+63-先手: K2J2 结果:3 
+发送指令：GO B2C2 3 A1
+
+收到指令：BESTMOVE B0B1
+
+
+发送指令：RESULT 0 A1
+
+64-后手: K4K3 结果:0
+发送指令：GO K4K3 0 A3
+
+收到指令：BESTMOVE J2K2
+
+
+发送指令：RESULT 3 A3
+
+65-先手: J2K2 结果:3 
+发送指令：GO C2B2 3 A1
+
+收到指令：BESTMOVE K4B1
+
+
+发送指令：RESULT 1 A1
+
+66-后手: B0K3 结果:1
+发送指令：GO B0K3 1 A3
+
+收到指令：BESTMOVE K2J2
+
+
+发送指令：RESULT 3 A3
+
+67-先手: K2J2 结果:3 
+发送指令：GO B2C2 3 A1
+
+收到指令：BESTMOVE B1A1
+
+
+发送指令：RESULT 1 A1
+
+68-后手: K3L3 结果:1
+后手胜利 比赛结束
+发送指令：END 1
+
+发送指令：END 0
+
